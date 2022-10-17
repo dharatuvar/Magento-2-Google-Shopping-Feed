@@ -11,26 +11,26 @@ The extension helps increase online presence of the brand and products. Offer th
  
 Google Shopping Feed for Magento 2 is a one-time solution for the store owners. The Google shopping feed is updated regularly at specific time intervals depending on the set configuration.
 ## Features of Magento 2 Google Shopping Feed:
-•       The admin can choose an option to generate an XML file for all the products via a single click regardless of individual product attribute selection.
-•       Magento 2 Google Shopping feed allows auto-updating the Magento 2 product feed using periodic XML generation.
-•       Allows to set the frequency of XML file generation from the following:
-•       Daily
-•       Weekly
-•       Monthly
-•       Hourly
-•       The admin can set the starting time of the shopping feed generation.
-•       Allows admin to exclude or include the out-of-stock products from the Google shopping feed XML file.
-•       Option to apply or ignore the catalogue rules on the product price.
-•       The admin can set an option to generate the media URL with or without pub/.
-•       Allows admin to select the tax/vat or discounts on the product price in the Google shopping feed.
-•       The admin can choose to set the ID of the individual products depending on Google’s Product Taxonomy.
-•       Backend option to map custom attributes with Google shopping feed manually.
-•       The admin needs to configure certain settings to create a new feed in Google shopping feed:
-•       Feed name
-•       Feed path
-•       File name
-•       The admin can keep a track of the Google shopping feed XML generation with details like start date, finish date, triggered by, product IDs, status, and mass action in the backend grid.
-•       Easy integration of Google shopping feed into your Magento 2 store using Google merchant account.
+*  The admin can choose an option to generate an XML file for all the products via a single click regardless of individual product attribute selection.
+*  Magento 2 Google Shopping feed allows auto-updating the Magento 2 product feed using periodic XML generation.
+*   Allows to set the frequency of XML file generation from the following:
+                *   Daily
+                *   Weekly
+                *  Monthly
+                *  Hourly
+*  The admin can set the starting time of the shopping feed generation.
+*   Allows admin to exclude or include the out-of-stock products from the Google shopping feed XML file.
+*   Option to apply or ignore the catalogue rules on the product price.
+*   The admin can set an option to generate the media URL with or without pub/.
+*   Allows admin to select the tax/vat or discounts on the product price in the Google shopping feed.
+*    The admin can choose to set the ID of the individual products depending on Google’s Product Taxonomy.
+*    Backend option to map custom attributes with Google shopping feed manually.
+*   The admin needs to configure certain settings to create a new feed in Google shopping feed:
+                *    Feed name
+                *     Feed path
+                *  File name
+*    The admin can keep a track of the Google shopping feed XML generation with details like start date, finish date, triggered by, product IDs, status, and mass action in the backend grid.
+*      Easy integration of Google shopping feed into your Magento 2 store using Google merchant account.
  
 For more information, visit:***[https://meetanshi.com/magento-2-google-shopping-feed.html](https://meetanshi.com/magento-2-google-shopping-feed.html)
  
