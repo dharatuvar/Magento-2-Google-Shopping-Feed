@@ -32,7 +32,7 @@ Google Shopping Feed for Magento 2 is a one-time solution for the store owners. 
 *    The admin can keep a track of the Google shopping feed XML generation with details like start date, finish date, triggered by, product IDs, status, and mass action in the backend grid.
 *      Easy integration of Google shopping feed into your Magento 2 store using Google merchant account.
  
-For more information, visit:***[https://meetanshi.com/magento-2-google-shopping-feed.html](https://meetanshi.com/magento-2-google-shopping-feed.html)
+For more information, visit:***[https://meetanshi.com/magento-2-google-shopping-feed.html](https://meetanshi.com/magento-2-google-shopping-feed.html)***
  
  
  
